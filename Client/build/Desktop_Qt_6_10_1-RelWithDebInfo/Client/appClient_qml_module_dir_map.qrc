@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Client">/home/bluesky/Documents/PROJEKT/sieci/Client/build/Desktop_Qt_6_10_1-RelWithDebInfo/Client</file>
+
+  </qresource>
+</RCC>

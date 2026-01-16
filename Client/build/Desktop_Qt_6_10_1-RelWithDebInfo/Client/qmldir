@@ -1,0 +1,6 @@
+module Client
+typeinfo appClient.qmltypes
+prefer :/qt/qml/Client/
+Main 254.0 Main.qml
+depends QtQuick
+
