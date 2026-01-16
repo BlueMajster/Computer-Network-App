@@ -1,0 +1,9 @@
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/Server.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/edit_cache.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/list_install_components.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/local.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/strip.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/Server_autogen_timestamp_deps.dir
+/home/bluesky/Documents/PROJEKT/sieci/Server/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/Server_autogen.dir
